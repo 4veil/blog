@@ -1,0 +1,17 @@
+input, label {
+	display: block;
+}
+
+	#form{
+		width: 400px;
+		margin: 60px auto;
+	}
+
+	body {
+		font-family: helvetica;
+	}
+
+	p {
+		text-align: left;
+	}
+
