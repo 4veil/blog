@@ -2,10 +2,11 @@
 
 body,
 html {
-margin:0;
-padding:0;
-color:#000;
-background:#a7a09a;
+	margin:0;
+	padding:0;
+	color:#000;
+	background:#a7a09a;
+	font-family: helvetica;
 }
 
 /* Classes */
@@ -73,9 +74,15 @@ h2 {
 	margin:0;
 }
 
+/* Dirty hack for IE6 */
+
+* html #footer {
+	height:1px;
+}
+
 /* Previous */
 
-#form{
+ /* #form{
 	width: 400px;
 	margin: 60px auto;
 }
@@ -85,10 +92,11 @@ input, label {
 }
 
 body {
-	font-family: helvetica;
+	
 }
 
 p {
 	text-align: left;
 }
 
+*/

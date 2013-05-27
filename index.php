@@ -12,6 +12,7 @@
 			<ul>
 				<li>Home</li>
 				<li>About</li>
+				<li><a href="loginForm.php">Login</a></li>
 			</ul>
 
 		</div>
@@ -50,7 +51,7 @@
 		</div>
 
 		<div class="sidebar">
-			<p>This is where the posts will go!</p>
+
 		</div>
 		<div class="footer">
 			<p>This is foot, hello.</p>
