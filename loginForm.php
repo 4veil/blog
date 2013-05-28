@@ -10,9 +10,10 @@
 		<div class="header"><p>DANISHERE</p></div>
 		<div class="navigation">
 			<ul>
-				<li>Home</li>
-				<li>About</li>
+				<li><a href="/blog/">Home</a></li>
+				<li><a href="about.php">About</a></li>
 				<li><a href="loginForm.php">Login</a></li>
+				<li><a href="adduser.php">Register</a></li>
 			</ul>
 
 		</div>
